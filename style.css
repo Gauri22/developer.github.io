@@ -1,0 +1,27 @@
+.col-4 ul {
+    display: inline;
+}
+
+.col-4 ul li {
+    display: inline;
+    padding: 14px;
+}
+
+.gray {
+    background-color: rgba(151, 151, 151, 0.3);
+    height: 40px;
+}
+
+.gray1 {
+    background-color: rgba(151, 151, 151, 0.3);
+}
+
+.right {
+    position: relative;
+    right: 10px;
+}
+
+.icons {
+    position: relative;
+    top: -40px;
+}
